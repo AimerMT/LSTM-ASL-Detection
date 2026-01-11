@@ -1,5 +1,5 @@
 Truong Vy Hoa
-hoa.truongvyhoa118@hcmut.edu.vn
+hoa.truongvyhoa118@gmail.com
 
 Step 0: installing libraries 
 
